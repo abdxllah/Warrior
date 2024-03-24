@@ -1,1 +1,1 @@
-Warrior is a free narrative driven game that is based on the Settlement of Iceland. You are able to input whatever you like and therefore go on unique adventures and journies.
+Warrior is a free narrative driven game that is based on the Settlement of Iceland. You are able to input whatever you like and therefore go on unique adventures. It is made as an exploration of AI in narrative driven games and used to explore different options for stories.
