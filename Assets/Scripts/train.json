@@ -1,0 +1,517 @@
+{
+    "intents": [
+      {
+        "intent": "Agree",
+        "text": [
+          "agree",
+          "I agree",
+          "You're right",
+          "You are right",
+          "Yes",
+          "You are correct",
+          "I understand",
+          "Exactly",
+          "Yep",
+          "Ya",
+          "Yup",
+          "I think so",
+          "agree",
+          "Concur",
+          "Assent",
+          "Approve",
+          "Acquiesce",
+          "Accede",
+          "Consent",
+          "Comply",
+          "Endorse",
+          "Support",
+          "Ratify",
+          "Affirm",
+          "Acknowledge",
+          "Admit",
+          "Grant",
+          "Validate",
+          "Confess",
+          "Agreeing",
+          "Agreeance",
+          "Assentation",
+          "Concord",
+          "Compliance",
+          "Conformance",
+          "Confirmation",
+          "Endorsation",
+          "Ratification",
+          "Acquiescence",
+          "Acceptance",
+          "Acknowledgment",
+          "Compliance",
+          "Consensus",
+          "Affirmation",
+          "Corroborate",
+          "O.K.",
+          "Aye",
+          "Yea",
+          "Approbation",
+          "Recognition",
+          "Accord"
+
+        ]
+      },
+
+      {
+        "intent": "Disagree",
+        "text": [
+          "dont agree",
+          "You are wrong",
+          "No",
+          "You are incorrect",
+          "You're mistaken",
+          "Nope",
+          "Nah",
+          "I don't understand",
+          "I do not understand",
+          "Na",
+          "i don't agree",
+          "disagree",
+          "Object",
+          "Contradict",
+          "Deny",
+          "Refute",
+          "Dispute",
+          "Oppose",
+          "Challenge",
+          "Contend",
+          "Differ",
+          "Reject",
+          "Renounce",
+          "Repudiate",
+          "Disapprove",
+          "Protest",
+          "Rebuke",
+          "Disavow",
+          "Abjure",
+          "Demur",
+          "Nonconcur",
+          "Discord",
+          "Confute",
+          "Disaccord",
+          "Dissent",
+          "Quarrel",
+          "Debate",
+          "Scorn",
+          "Thwart",
+          "Veto",
+          "Resist",
+          "Break",
+          "Clash",
+          "Defy",
+          "Differ",
+          "Rebel",
+          "Stifle"
+
+          
+        ]
+      },
+
+      {
+        "intent": "Anger",
+        "text": [
+         "I am angry",
+         "I am furious",
+         "What on earth",
+         "can't believe",
+         "Annoyed",
+         "annoying",
+         "anger",
+         "irritated",
+         "i'm enraged",
+         "infuriating",
+         "infuriated",
+         "ire",
+         "rage",
+         "fury",
+         "outrage",
+         "wrath",
+         "exasperation",
+         "annoyance",
+         "irritation",
+         "indignation",
+         "resentment",
+         "temper",
+         "choler",
+         "displeasure",
+         "frustration",
+         "disgruntlement",
+         "aggravation",
+         "bitterness",
+         "enrage",
+         "infuriate",
+         "irritate"
+
+
+
+          
+        ]
+      },
+
+
+      {
+        "intent": "Threaten",
+        "text": [
+         "I'm warning you",
+         "I'll kill you",
+         "Draw your sword",
+         "Let's fight",
+         "your life is in danger",
+         "Kill you",
+         "warning you",
+         "threaten", 
+         "intimidate",
+         "menace",
+         "bully",
+         "coerce",
+         "daunt",
+         "terrorize",
+         "blackmail",
+         "harass",
+         "menace",
+         "peril",
+         "pressurize",
+         "scare",
+         "terror",
+         "warn",
+         "alarm",
+         "commine",
+         "endanger",
+         "impending",
+         "jeopardize",
+         "menacing"
+
+          
+        ]
+      },
+
+
+      
+      {
+        "intent": "Apologise",
+        "text": [
+         "Sorry",
+         "I apologise",
+         "Forgive me",
+         "I ask for forgiveness",
+         "I'm very sorry",
+         "apologise",
+         "admit",
+         "confess",
+         "acknowledge",
+         "regret",
+         "repent",
+         "ask forgiveness",
+         "make amends",
+         "make reparations",
+         "express regret",
+         "offer an apology",
+         "say sorry",
+         "show contrition",
+         "beg pardon",
+         "ask for pardon",
+         "make an apology",
+         "apologize",
+         "atone",
+         "compensate",
+         "redress",
+         "make up"
+
+          
+        ]
+      },
+
+
+      {
+        "intent": "Thank",
+        "text": [
+         "Thank you",
+         "thanks",
+         "appreciated",
+         "much appreciated",
+         "thank",
+         "appreciate",
+         "acknowledge",
+         "gratitude",
+         "recognize",
+         "acknowledge",
+         "praise",
+         "bless",
+         "compliment",
+         "credit",
+         "honor",
+         "revere",
+         "respect",
+         "cherish",
+         "treasure",
+         "esteem",
+         "prize",
+         "value",
+         "be grateful",
+         "give thanks",
+         "gratitude",
+         "say thank you",
+         "show appreciation",
+         "thanking"
+         
+
+          
+        ]
+      },
+
+
+
+      {
+        "intent": "ExpressHappiness",
+        "text": [
+         "I'm so happy",
+         "Happy",
+         "Glee",
+         "woohoo",
+         "yay",
+         "hurray",
+         "huzza",
+         "expresshappiness",
+         "rejoice",
+         "exult",
+         "delight",
+         "be glad",
+         "beam",
+         "grin",
+         "smile",
+         "laugh",
+         "celebrate",
+         "enjoy",
+         "jubilate",
+         "triumph",
+         "radiate",
+         "thrill",
+         "elate",
+         "gladden",
+         "make merry",
+         "be overjoyed",
+         "be pleased",
+         "feel happy",
+         "express joy",
+         "express pleasure",
+         "be delighted"
+
+          
+        ]
+      },
+
+      {
+        "intent": "ExpressSadness",
+        "text": [
+         "this is awful",
+         "I'm sad",
+         "sad",
+         "depression",
+         "depressed",
+         "i feel awful",
+         "unhappy",
+         "dejected",
+         "expresssadness",
+         "sadness",
+         "grieve",
+         "sorrow",
+         "lament",
+         "mourn",
+         "weep",
+         "cry",
+         "bemoan",
+         "deplore",
+         "regret",
+         "lament",
+         "pine",
+         "agonize",
+         "bleed",
+         "break down",
+         "keen",
+         "bewail",
+         "mope",
+         "wear black",
+         "be sorry",
+         "express grief",
+         "express sorrow",
+         "feel blue",
+         "feel down",
+         "show sadness"
+
+          
+        ]
+      },
+
+      {
+        "intent": "Question",
+        "text": [
+         "what do you mean",
+         "what do u mean",
+         "why what that",
+         "why",
+         "question",
+         "ask",
+         "inquire",
+         "interrogate",
+         "query",
+         "quiz",
+         "probe",
+         "challenge",
+         "cross-examine",
+         "grill",
+         "hit",
+         "interpellate",
+         "investigate",
+         "petition",
+         "pump",
+         "quiz",
+         "scrutinize",
+         "solicit",
+         "test",
+         "enquire",
+         "examine",
+         "feel out",
+         "have a question",
+         "pose a question",
+         "put a question",
+         "raise a question"
+  
+
+          
+        ]
+      },
+
+
+      
+
+      {
+        "intent": "Resolve",
+        "text": [
+         "don't argue",
+         "your both warriors",
+         "don't fight",
+         "dont fight",
+         "resolve",
+         "settle",
+         "fix",
+         "determine",
+         "decide",
+         "conclude",
+         "disentangle",
+         "sort out",
+         "work out",
+         "iron out",
+         "smooth over",
+         "reconcile",
+         "clear up",
+         "find a solution",
+         "reach a decision",
+         "finalize",
+         "dispose of",
+         "crack",
+         "decipher",
+         "solve",
+         "unravel",
+         "untangle",
+         "cope",
+         "deal with",
+         "get to the bottom of",
+         "overcome",
+         "set right",
+         "straighten out"
+
+          
+        ]
+      },
+
+
+      {
+        "intent": "Inappropriate",
+        "text": [
+         "fuck you",
+         "fuck u",
+         "fucker",
+         "bastard",
+         "fuck off",
+         "idiot",
+         "fuck",
+         "shit",
+         "inappropriate",
+         "Arse",
+         "Bloody",
+         "Bugger",
+         "Cow",
+         "Crap",
+         "Damn" ,
+         "Git" ,
+         "God" ,
+         "Goddam",
+         "Jesus Christ",
+         "Minger",
+         "Sod-off",
+         "Arsehole",
+         "Balls",
+         "Bitch",
+         "Bollocks",
+         "Bullshit",
+         "Feck",
+         "pissed off",
+         "Shit",
+         "son of a bitch",
+         "Tits",
+         "bellend",
+         "Cock",
+         "Dick",
+         "Dickhead",
+         "Pussy",
+         "Twat"
+
+          
+        ]
+      },
+
+      {
+        "intent": "dontUnderstand",
+        "text": [
+         "huh",
+         "can you explain",
+         "say that again",
+         "can you repeat that",
+         "dontUnderstand",
+         "Confused",
+         "Perplexed",
+         "Baffled",
+         "Bewildered",
+         "Stumped",
+         "Puzzled",
+         "Clueless",
+         "Uncomprehending",
+         "Unclear",
+         "Unfamiliar",
+         "Unfathomable",
+         "Inscrutable",
+         "Mysterious",
+         "Enigmatic",
+         "Inexplicable",
+         "Cryptic",
+         "Unintelligible",
+         "Obscure",
+         "Vague",
+         "Ambiguous"
+        
+          
+        ]
+      }
+
+
+      
+     
+    
+    ]
+  }
